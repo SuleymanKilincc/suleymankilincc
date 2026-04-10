@@ -33,7 +33,7 @@ Merhaba! Ben **Süleyman** — Elazığ'dan bir yazılım mühendisliği öğren
 
 <p align="center">
   <a href="https://github.com/suleymankilincc/PerfHub-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymankilincc&repo=PerfHub-AI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="PerfHub AI" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=suleymankilincc&repo=PerfHub-AI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="PerfHub AI](https://github.com/SuleymanKilincc/suleymankilincc/blob/main/image.png)" />
   </a>
 </p>
 
