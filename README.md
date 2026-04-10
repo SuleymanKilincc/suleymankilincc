@@ -33,7 +33,7 @@ Merhaba! Ben **Süleyman** — Elazığ'dan bir yazılım mühendisliği öğren
 
 <p align="center">
   <a href="https://github.com/suleymankilincc/PerfHub-AI">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=suleymankilincc&repo=PerfHub-AI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="PerfHub AI](https://github.com/SuleymanKilincc/suleymankilincc/blob/main/image.png)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymankilincc&repo=PerfHub-AI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" alt="PerfHub AI" />
   </a>
 </p>
 
@@ -49,10 +49,14 @@ Merhaba! Ben **Süleyman** — Elazığ'dan bir yazılım mühendisliği öğren
 ### 📸 Uygulama Önizlemesi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suleymankilincc/PerfHub-AI/main/screenshots/results.png" alt="PerfHub AI - Sonuçlar Ekranı" width="800" style="border-radius: 12px; border: 1px solid #30363d;" />
+  <img src="https://raw.githubusercontent.com/suleymankilincc/PerfHub-AI/main/dashboard.png" alt="PerfHub AI - Dashboard" width="800" />
 </p>
 
-> *FPS tahmin sonuçları ve sistem performans skoru ekranı — Low, Medium, High ve Ultra ayarlarında ayrıntılı FPS kırılımı.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suleymankilincc/PerfHub-AI/main/results.png" alt="PerfHub AI - Sonuçlar Ekranı" width="800" />
+</p>
+
+> *Sistem dashboard'u ve FPS tahmin sonuçları — Low, Medium, High ve Ultra ayarlarında ayrıntılı performans kırılımı.*
 
 <p align="center">
   <a href="https://github.com/suleymankilincc/PerfHub-AI">
