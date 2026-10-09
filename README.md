@@ -8,6 +8,8 @@ how wrong my first model was. The one I spend most time on is
 [PerfHub](https://github.com/SuleymanKilincc/perfhub-ai), a frame-rate
 predictor for PC games that publishes its own error.
 
+**Looking for:** a software engineering internship for summer 2027.
+
 [Website](https://suleymankilinc.com) ·
 [PerfHub, live](https://perfhub.suleymankilinc.com)
 
@@ -16,6 +18,8 @@ predictor for PC games that publishes its own error.
 A web app that estimates how fast a given CPU, GPU and RAM combination runs
 each game in a catalogue of 176. The prediction runs in the browser; there is
 no server behind it.
+
+[![PerfHub results for a Ryzen 5 7600 with an RTX 4070](https://raw.githubusercontent.com/SuleymanKilincc/perfhub-ai/main/screenshots/results.png)](https://perfhub.suleymankilinc.com)
 
 - **A model, not a lookup table.** It models frame time (the slower of the CPU
   and the GPU sets the pace), with separate models for VRAM spill, ray tracing,
@@ -53,9 +57,10 @@ Python · TypeScript · React · FastAPI · SQLite · GitHub Actions
 
 | | |
 |---|---|
-| **Working with** | Python, Java, TypeScript and React, SQL and PostgreSQL, SQLite, Docker Compose, Git and GitHub, FastAPI and Flask |
+| **Comfortable without assistance** | Python, Java, SQL and PostgreSQL basics, Git |
+| **Used in projects built with AI assistance** | TypeScript and React, FastAPI, Flask, Docker Compose, GitHub Actions, TensorFlow and Keras |
 | **Learning now** | C# and .NET, relational design in PostgreSQL (schemas, indexes, transactions) |
-| **Also** | Machine learning with TensorFlow and Keras, Blender and Unity, graphic design |
+| **Also** | Blender and Unity, graphic design |
 
 ## Currently
 
